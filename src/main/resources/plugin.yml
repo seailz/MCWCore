@@ -1,0 +1,7 @@
+name: MCWCore
+version: ${project.version}
+main: live.mcwipeout.mcwcore.MCWCore
+api-version: 1.18
+authors: [ Seailz ]
+description: CommandMCW Core
+website: www.seailz.com
